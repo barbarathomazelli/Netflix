@@ -11,6 +11,7 @@
 body{
     background: var(--preta);
     font-family: 'Times New Roman',Times,serif;
+    color: #fff;
 }
 
  header .container{
@@ -36,4 +37,25 @@ body{
  header nav a:hover{
      color:#fff;
      
+ }
+
+ .filme-principal{
+     font-size: 16px;
+     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),url('../img/Gaviaoarqueiro.jpg');
+    
+     height: 1200px;
+     background-size: cover;
+
+     display: flex;
+     flex-direction:column ;
+     justify-content: center;
+     align-items: flex-start;
+ }
+
+ .filme-principal .DESCRICAO{
+     margin-bottom: 50px ;
+
+ }
+ .titulo{
+     font-size: 40px;
  }
