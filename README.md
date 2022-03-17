@@ -1,4 +1,9 @@
 Criado por Barbara Thomazelli
-             Netflix
+&nbsp;
+
+Netflix
+
+&nbsp;
+<img src='img/netflix.png'>
             
              
